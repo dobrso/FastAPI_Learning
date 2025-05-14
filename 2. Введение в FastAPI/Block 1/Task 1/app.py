@@ -7,5 +7,5 @@ secondMessage = "Авторелоад действительно работае�
 
 
 @app.get("/")
-async def root() -> None:
+async def root():
     return {"message": firstMessage}

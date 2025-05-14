@@ -5,5 +5,5 @@ app = FastAPI()
 
 
 @app.get("/")
-async def root() -> None:
+async def root():
     return FileResponse("index.html")
