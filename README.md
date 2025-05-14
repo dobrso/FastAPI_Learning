@@ -1,3 +1,2 @@
-# FastAPI_Learning
-FastAPI Bases
-Stepik course [text](https://stepik.org/course/179694)
+# FastAPI Bases
+Stepik course [link](https://stepik.org/course/179694)
